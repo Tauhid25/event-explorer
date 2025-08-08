@@ -4,7 +4,8 @@
 
 
 <!-- Project Photo -->
-<img src="https://i.ibb.co/BHyfxNwk/event-explorer.png" alt="Cover" width="100%" />
+![Cover](https://i.ibb.co/BHyfxNwk/event-explorer.png)
+
 
 ## 🌐 Live Website
 
@@ -75,7 +76,7 @@ The main goal of Event Explorer is to help users discover local events and take 
  **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/better-work.git
+   git clone https://github.com/Tauhid25/event-explorer.git
    ```
  **Run the Command:**
 
