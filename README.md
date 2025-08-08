@@ -71,7 +71,7 @@ The main goal of Event Explorer is to help users discover local events and take 
 
 
 
-##### 📦 Installation & Setup
+### 📦 **Installation & Setup**
 
  **Clone the Repository:**
 
